@@ -8,8 +8,4 @@ public class gerenciadorCliente{
 	public void atualizar(String name){
 		cliente = name;
 	}
-	
-	public String getCliente(){
-		return cliente;
-	}
 }
