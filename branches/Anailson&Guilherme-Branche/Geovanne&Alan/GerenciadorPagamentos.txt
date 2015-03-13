@@ -1,5 +1,0 @@
-public GerenciadorPagamentos(){
-
-	Olha a desgraça ai. blz
-
-}
